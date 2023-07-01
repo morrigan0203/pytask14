@@ -1,0 +1,6 @@
+[
+    {"name":"Vasya","id":"id001","levelAccess":7},
+    {"name":"Petya","id":"id002","levelAccess":6},
+    {"name":"Petr","id":"id003","levelAccess":5},
+    {"name":"Ioan","id":"id004","levelAccess":4}
+]
